@@ -45,7 +45,7 @@ Things I'm handy with:
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-aws)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ashishssoni&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishssoni&hide=java&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ashishssoni&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishssoni&theme=radical&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashishssoni.ashishssoni)

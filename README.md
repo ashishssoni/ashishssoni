@@ -13,7 +13,7 @@ I work as a Full Stack Developer on server applications to enhance user experien
 My Comfort:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-NodeJS-white?style=for-the-badge&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node-dot-js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)

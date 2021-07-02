@@ -1,5 +1,5 @@
 # Hello!
-I am Ashish Soni. I am keen to be involved in new projects and love to explore innovative ideas.
+I am Ashish Soni. Love to explore innovative ideas and also fascinated by Blockchain.
 
 # Get in Touch!
 [![Linkedin](https://img.shields.io/badge/-ashish%20soni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-soni-23604b136/)](https://www.linkedin.com/in/ashish-soni-23604b136/)

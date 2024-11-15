@@ -1,5 +1,5 @@
 # Hello!
-I am Ashish Soni. Love to explore innovative ideas and also fascinated by Blockchain.
+Innovative Backend Software Engineer with over 5 years of experience specializing in Node.js, database architecture, and system design. A proven leader in developing high-impact solutions that streamline processes and improve user experiences. Passionate about leveraging cutting-edge technologies to solve complex business challenges.
 
 # Get in Touch!
 [![Linkedin](https://img.shields.io/badge/-ashish%20soni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-soni-23604b136/)](https://www.linkedin.com/in/ashish-soni-23604b136/)
@@ -7,9 +7,6 @@ I am Ashish Soni. Love to explore innovative ideas and also fascinated by Blockc
 [![Gmail](https://img.shields.io/badge/-ashishssoni01gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ashishssoni01@gmail.com)](mailto:ashishssoni01@gmail.com)
 
 # Things I have Worked on
-
-Innovative Backend Software Engineer with over 5 years of experience specializing in Node.js, database architecture, and system design. A proven leader in developing high-impact solutions that streamline processes and improve user experiences. Passionate about leveraging cutting-edge technologies to solve complex business challenges.
-
 My Comfort:
 
 

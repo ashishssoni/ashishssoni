@@ -4,7 +4,7 @@ I am Ashish Soni. Love to explore innovative ideas and also fascinated by Blockc
 # Get in Touch!
 [![Linkedin](https://img.shields.io/badge/-ashish%20soni-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashish-soni-23604b136/)](https://www.linkedin.com/in/ashish-soni-23604b136/)
 [![Instagram](https://img.shields.io/badge/-ashish%20soni-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ashish.o_o/)](https://www.instagram.com/ashish.o_o/)
-[![Gmail](https://img.shields.io/badge/-ashish.soni0696@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ashish.soni0696@gmail.com)](mailto:ashish.soni0696@gmail.com)
+[![Gmail](https://img.shields.io/badge/-ashish.soni0696@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ashishssoni01@gmail.com)](mailto:ashishssoni01@gmail.com)
 
 # Things I have Worked on
 

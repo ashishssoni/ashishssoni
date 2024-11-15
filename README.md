@@ -12,12 +12,19 @@ I work as a Full Stack Developer on server applications to enhance user experien
 
 My Comfort:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Nodejs](https://img.shields.io/badge/-NodeJS-black?style=for-the-badge&logo=Node-dot-js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySql](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue)
+![DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm)
-![Blockchain](https://img.shields.io/badge/blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com)
+![Nestjs](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=Nestjs)
+![S3](https://img.shields.io/badge/-S3-white?style=for-the-badge&logo=amazon-s3)
 ![React](https://img.shields.io/badge/-React-aqua?style=for-the-badge&logo=react)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
@@ -27,16 +34,14 @@ My Comfort:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![Jira](https://img.shields.io/badge/-Jira-darkblue?style=for-the-badge&logo=jira)
-![S3](https://img.shields.io/badge/-S3-white?style=for-the-badge&logo=amazon-s3)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Prettier](https://img.shields.io/badge/-prettier-black?style=for-the-badge&logo=prettier)
+![Blockchain](https://img.shields.io/badge/blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com)
 
 Things I'm exploring:
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![Nestjs](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=Nestjs)
-![Prettier](https://img.shields.io/badge/-prettier-black?style=for-the-badge&logo=prettier)
 ![Go](https://img.shields.io/badge/-Golang-00599C?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby On Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 Things I'm handy with:
 
@@ -45,7 +50,7 @@ Things I'm handy with:
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-232F3E?style=for-the-badge&logo=amazon-aws)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ashishssoni&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ashishssoni&count_private=true&show_icons=true&theme=dark&include_all_commits=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishssoni&theme=radical&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ashishssoni.ashishssoni)

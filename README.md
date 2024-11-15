@@ -8,7 +8,7 @@ I am Ashish Soni. Love to explore innovative ideas and also fascinated by Blockc
 
 # Things I have Worked on
 
-I work as a Full Stack Developer on server applications to enhance user experience 
+Innovative Backend Software Engineer with over 5 years of experience specializing in Node.js, database architecture, and system design. A proven leader in developing high-impact solutions that streamline processes and improve user experiences. Passionate about leveraging cutting-edge technologies to solve complex business challenges.
 
 My Comfort:
 

@@ -8,7 +8,7 @@
 
    ---
 
-## What I Help Clients Build
+## What I Help Build
 
 - SaaS MVP backends
 - Subscription and Stripe billing systems
@@ -77,7 +77,7 @@
 
    ---
 
-## Why Clients Hire Me
+## What Working With Me Looks Like
 
 - I can take ownership of backend architecture and implementation
 - I build systems that are maintainable and production-ready
@@ -104,6 +104,5 @@
 
 - LinkedIn: <https://www.linkedin.com/in/ashish-soni-23604b136/>
 - Email: [ashishssoni01@gmail.com](mailto:ashishssoni01@gmail.com)
-- Upwork: Add your profile link here
 
    If you're building a SaaS product and need help with **APIs, billing, authentication, or scalable backend systems**, feel free to reach out.
